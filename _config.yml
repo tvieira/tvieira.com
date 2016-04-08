@@ -13,7 +13,7 @@ url:          http://tvieira.com
 baseurl:      ''
 paginate:     5
 
-highlighter:  pygments
+highlighter:  rouge
 
 kramdown:
   input:      GFM
