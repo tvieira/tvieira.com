@@ -19,8 +19,6 @@ kramdown:
   input:      GFM
   syntax_highlighter: rouge
 
-analytics: UA-41750791-1
-
 author:
   name:       Tiago M. Vieira
   url:        https://twitter.com/tiagovieira
