@@ -1,0 +1,27 @@
+gems: [jekyll-paginate, jekyll-gist]
+
+permalink: pretty
+
+# Setup
+title:        Tiago M. Vieira
+tagline:      'on software engineering in general'
+description:  'A place to push my thoughts on software engineering, infosec
+              and politics. Views are my own. Made by <a
+              href="https://twitter.com/tiagovieira"
+              target="_blank">@tiagovieira</a>.'
+url:          http://tvieira.com
+baseurl:      ''
+paginate:     5
+
+highlighter:  pygments
+
+kramdown:
+  input:      GFM
+  syntax_highlighter: rouge
+
+analytics: UA-41750791-1
+
+author:
+  name:       Tiago M. Vieira
+  url:        https://twitter.com/tiagovieira
+  email:      tiago@tvieira.com
