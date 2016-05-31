@@ -29,8 +29,7 @@ goals are achieved in an efficient and sustainable manner.
 * [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in
 Computer Science
 * [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
-* Coffee Roaster, Coffee Taster and Coffee Brewer Certified by [London School
- of Coffee](http://www.londonschoolofcoffee.com/)
+* Coffee Roaster, Cupper and Brewer Certified by [London School of Coffee](http://www.londonschoolofcoffee.com/)
 
 ## Professional experience
 
@@ -72,3 +71,4 @@ My key fingerprint is
 * [Github](https://github.com/tvieira)
 
 Thanks for reading!
+
