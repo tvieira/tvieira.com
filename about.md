@@ -48,8 +48,8 @@ architecture, service oriented architecture, API design)
 * Software and systems automation
 * Configuration management ([Ansible](https://www.ansible.com/),
 [Puppet](https://puppet.com/) and [Chef](https://www.chef.io/))
-* Linux systems, applications and utilities
-* Systems monitoring and reporting
+* Linux operating systems, applications and utilities
+* Systems monitoring and troubleshooting
 
 I'm Senior Quality Engineer at [Red Hat](https://www.redhat.com/en) (though
 all opinions and content on this website are my own)
