@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/tmoreira
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tvieira.com
+  * I am tmoreira (https://keybase.io/tmoreira) on keybase.
+  * I have a public key with fingerprint 2525 D9C5 A152 54C0 575F  102E 2CB8 A45A E245 073D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015efa51c1c0fabc14d83dfecdd57cac5dadf94f28855882128964a97570072f200a",
+            "fingerprint": "2525d9c5a15254c0575f102e2cb8a45ae245073d",
+            "host": "keybase.io",
+            "key_id": "2cb8a45ae245073d",
+            "kid": "01015efa51c1c0fabc14d83dfecdd57cac5dadf94f28855882128964a97570072f200a",
+            "uid": "98da229fbf32227e94a8efd93f186019",
+            "username": "tmoreira"
+        },
+        "service": {
+            "hostname": "tvieira.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1468530378,
+    "expire_in": 157680000,
+    "prev": "d196c9877634d77d99355ee97037de11c31afb231ee1044d82742ebd63c112b1",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtkmtMFFcUx5ctqEu1QAoJRNDsIDFtEOd1d2a2sa5o2wCFVE2VaGGZnXtnmbDs
+bGeXV1eoKFArYCC8SqO2NAikptFIpW20RbEQC4gF2lh8UZdWUqkVGqRQcNMZUr/1
+Y++Xe++5v///nnNyatY8o9MHxH/Zus/3ysotAQO/2XR73/N/78VsMizCzF4sBy1v
+yAGR22PNkSBmxnACJwASeUAIhICLvE0gaMhSUEQChIAReAFAHoocLZIsCwDLkgTJ
+ciaa5xjA4DhDiiSO81g8JkpOO1JciuT0qLYkIAHkBMAT6oEWcMAAkcBJRAo2lqcB
+j0ga4AwFVWG27NYUanI23o0SJFmNqRfrcnr/wf/Peect23Es5EmSE20iRZIkgzia
+Z5EIOUokWBNOcBroRoqTz0Uq7cmVFSQpPFYcj6nRfElAWmO1Sp4S+ZIGJAhyrip1
+KbJHFmSH+pDt8bjMms5T5NLAAmSz/mthtUlOqHZRFeQjxS3JTsxMqKTgkTRPgjax
+gMIpho3HUKFLUpBV0gjAmFhcXdo3KF+1hARnEjiWYfaYKBoyDOQ4CgCEOEYVQ0QQ
+AkXwoo2kCIQInFbbRjI0iWzQRAkEQdoITKvqbaeMmYGaJ29XPd2S3cl78hSEFQe/
+r48O1AXodSuC9Np86YINoU+HTlcYqmvY+1fX6tgHX4+bWgIivYlTXrfxb2fh7wWT
+6atKAiEDjpWmWyJyrxmpFdPhyuJE/37/vN39gb35yamFysBfSjiT3nIrKWXx5127
+LBUjJ0KGyi7FZVUaX/0kqbOn+e7x6vJTrx/8dtQwPHCnMbG5baaw/fpNvL4qBY1k
+GxxRD+tbEz+zFo2VbVx6QN6vqtkwceSIcThl0Jja1/3ijznzTbWOe3eHq9pjshrG
+jNeUqMt1qzozFS7I8dz0o7hNuy+AipbkK2kvTQxmlNHe4q8q988wpDtsc5mvImwy
+6MLzyVGj/qbb9/U+n299nfNqZsy+GPnxx49i175jSH5jMCr0h5Cz1tiU9JH2yo/O
+XbSEwUC5UJ8XPdZ1sPrPyJX6vOtDG4JOhnCpTf1zYb74SXhjffG2zoHP4y4nUMwC
+vzri/JbEqYzydalbb09ZjueeblsX8mmjvWduviry7Lk1tS1EUuhrszEH1jq4M49L
+vmjrSKu/tL30cOmhd1/YPQ3yw49W3LhD17X2dR9Nrjp/prkgbOaPDkP3jo7JIa/S
+EaGM+U/uKO25Mt5LHu5rWNy0FPyh02+2uDbH7qm9N3yri91o/u6nhewTb/26s+zN
+ycxjUTfTjs76tgZnXDSNAmZse2/mYPiz/uKa/qwnB7p2wtPfVCd1pMwvJR26Wv5w
+YRvWNzfeaxiiZxtfjv4H
+=IX4o
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tmoreira
+
+==================================================================
