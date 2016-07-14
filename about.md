@@ -40,7 +40,7 @@ I have experience across different industries such as telecomm, banking,
 independent software vendor, information service providers, media and
 printing. During my career I had experience with the following areas:
 
-* Development with C, Python, Javascript and Java languages
+* Development with C, Python, Javascript and Java
 * Software architecture (high availability, web applications, component
 architecture, service oriented architecture, API design)
 * Build and Release systems
