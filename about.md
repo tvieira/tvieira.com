@@ -5,7 +5,7 @@ title: About
 
 [Open source](https://opensource.com/resources/what-open-source) advocate,
 [pythonista](https://en.wikipedia
-.org/wiki/Python_%28programming_language%29), [minimaslist](https://en
+.org/wiki/Python_%28programming_language%29), [minimalist](https://en
 .wikipedia.org/wiki/Minimalism_%28computing%29), books-lover,
 coffee-lover, information security paranoid + skeptical inquirer and [open
 data](https://en.wikipedia.org/wiki/Open_data) supporter.
