@@ -74,6 +74,7 @@ My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
 * [Linkedin](https://uk.linkedin.com/in/tiagovieira)
 * [Twitter](https://twitter.com/tiagovieira)
 * [Github](https://github.com/tvieira)
+* [Reddit](https://www.reddit.com/user/tiagovieira)
 
 Thanks for reading!
 
