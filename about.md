@@ -5,10 +5,10 @@ title: About
 
 [Open source](https://opensource.com/resources/what-open-source) advocate,
 [pythonista](https://en.wikipedia
-.org/wiki/Python_%28programming_language%29), [minimalist](https://en
-.wikipedia.org/wiki/Minimalism_%28computing%29), books-lover,
-coffee-lover, information security paranoid + skeptical inquirer and [open
-data](https://en.wikipedia.org/wiki/Open_data) supporter.
+.org/wiki/Python_%28programming_language%29), linux nerd,
+[minimalist](https://en.wikipedia.org/wiki/Minimalism_%28computing%29),
+books-lover, coffee-lover, information security paranoid + skeptical
+inquirer and [open data](https://en.wikipedia.org/wiki/Open_data) supporter.
 
 I have over 15 years of professional experience contributing and leading the
  implementations of technical solutions and the development of technical
@@ -21,6 +21,7 @@ environments. I gain tremendous professional satisfaction leading companies
 and people through difficult challenges and opportunities ensuring their
 goals are achieved in an efficient and sustainable manner.
 
+
 ## Education and Certifications
 
 * [PgDip](https://en.wikipedia.org/wiki/Postgraduate_diploma#England
@@ -29,7 +30,9 @@ goals are achieved in an efficient and sustainable manner.
 * [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in
 Computer Science
 * [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
-* Coffee Roaster, Cupper and Brewer Certified by [London School of Coffee](http://www.londonschoolofcoffee.com/)
+* [RHCSA - Red Hat Certified System Administrator](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729).
+
+In my spare time I'm also a Coffee Roaster, Cupper and Brewer Certified by [London School of Coffee](http://www.londonschoolofcoffee.com/).
 
 ## Professional experience
 
@@ -63,6 +66,8 @@ to keep our messages confidential.
 My key fingerprint is
 
 `2525 D9C5 A152 54C0 575F  102E 2CB8 A45A E245 073D`
+
+My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
 
 ## Social Profile
 
