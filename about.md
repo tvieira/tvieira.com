@@ -32,10 +32,12 @@ Computer Science
 * [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
 * [RHCSA - Red Hat Certified System Administrator](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729).
 
+[![rhcsabadge]({{ site.baseurl }}/public/RHCSA-badge.png)](https://www.redhat.com/rhtapps/certification/badge/verify/JJRZ7I4NMV2TIBKMXT6NHXWQFYAEQU3CUPSQX2KSDXT6RW46LQ37ULE25V3KCXMMFRIX6PMBNQZGA4U5NQYTCNA62RUWOCM34WWBUYQ=)
+
 In my spare time I'm also a Coffee Roaster, Cupper and Brewer Certified by [London School of Coffee](http://www.londonschoolofcoffee.com/).
 
 ## Professional experience
-
+i
 I have experience across different industries such as telecomm, banking,
 independent software vendor, information service providers, media and
 printing. During my career I had experience with the following areas:
@@ -54,6 +56,7 @@ architecture, service oriented architecture, API design)
 I'm Senior Quality Engineer at [Red Hat](https://www.redhat.com/en) (though
 all opinions and content on this website are my own)
 
+
 ## Contact
 
 If you want to get in touch with me, email is best:
@@ -68,7 +71,7 @@ My key fingerprint is
 `2525 D9C5 A152 54C0 575F  102E 2CB8 A45A E245 073D`
 
 My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
-
+oi
 ## Social Profile
 
 * [Linkedin](https://uk.linkedin.com/in/tiagovieira)
@@ -77,4 +80,5 @@ My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
 * [Reddit](https://www.reddit.com/user/tiagovieira)
 
 Thanks for reading!
+
 
