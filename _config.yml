@@ -23,3 +23,6 @@ author:
   name:       Tiago M. Vieira
   url:        https://twitter.com/tiagovieira
   email:      tiago@tvieira.com
+
+collections:
+  - badges

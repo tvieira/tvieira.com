@@ -30,11 +30,9 @@ goals are achieved in an efficient and sustainable manner.
 * [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in
 Computer Science
 * [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
-* [RHCSA - Red Hat Certified System Administrator](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729).
+* [RHCSA - Red Hat Certified System Administrator](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
+* [RHCE - Red Hat Certified Engineer](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
 
-[![rhcsabadge]({{ site.baseurl }}/public/RHCSA-badge.png)](https://www.redhat.com/rhtapps/certification/badge/verify/JJRZ7I4NMV2TIBKMXT6NHXWQFYAEQU3CUPSQX2KSDXT6RW46LQ37ULE25V3KCXMMFRIX6PMBNQZGA4U5NQYTCNA62RUWOCM34WWBUYQ=)
-
-In my spare time I'm also a Coffee Roaster, Cupper and Brewer Certified by [London School of Coffee](http://www.londonschoolofcoffee.com/).
 
 ## Professional experience
 i
@@ -53,9 +51,9 @@ architecture, service oriented architecture, API design)
 * Linux operating systems, applications and utilities
 * Systems monitoring and troubleshooting
 
-I'm Senior Quality Engineer at [Red Hat](https://www.redhat.com/en) (though
-all opinions and content on this website are my own)
+I'm Senior Quality Engineer at [Red Hat](https://www.redhat.com/en) (though all opinions and content on this website are my own)
 
+In my spare time I'm also a Coffee Roaster, Cupper and Brewer Certified by [London School of Coffee](http://www.londonschoolofcoffee.com/).
 
 ## Contact
 
