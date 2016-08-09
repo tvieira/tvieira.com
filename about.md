@@ -69,13 +69,15 @@ My key fingerprint is
 `2525 D9C5 A152 54C0 575F  102E 2CB8 A45A E245 073D`
 
 My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
-oi
+
 ## Social Profile
 
 * [Linkedin](https://uk.linkedin.com/in/tiagovieira)
 * [Twitter](https://twitter.com/tiagovieira)
 * [Github](https://github.com/tvieira)
 * [Reddit](https://www.reddit.com/user/tiagovieira)
+
+I do have Facebook which I barely update. But when I do, it is to update my family and close friends only.
 
 Thanks for reading!
 
