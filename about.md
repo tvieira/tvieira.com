@@ -35,7 +35,7 @@ Computer Science
 
 
 ## Professional experience
-i
+
 I have experience across different industries such as telecomm, banking,
 independent software vendor, information service providers, media and
 printing. During my career I had experience with the following areas:
