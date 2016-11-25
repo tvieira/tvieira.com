@@ -19,6 +19,11 @@ keywords: freelance, developer, web development, app development, freelance deve
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content }}
+
+    <a class="twitter-share-button"
+       href="https://twitter.com/intent/tweet?text={{ post.title }}&url={{ site.url }}{{site.baseurl}}{{ post.url }}&via=tiagovieira"
+       data-size="large">Tweet</a>
+
   </div>
   {% endfor %}
 </div>
