@@ -26,9 +26,9 @@ goals are achieved in an efficient and sustainable manner.
 
 * [PgDip](https://en.wikipedia.org/wiki/Postgraduate_diploma#England
 .2C_Wales_and_Scotland) in [Software and System Security](http://www.cs.ox.ac
-.uk/softeng/security/) at University of Oxford
+.uk/softeng/security/) from University of Oxford
 * [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in
-Computer Science
+Computer Science from [Pontifícia Universidade Católica de Minas Gerais](http://www.pucpcaldas.br/)
 * [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
 * [RHCSA - Red Hat Certified System Administrator](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
 * [RHCE - Red Hat Certified Engineer](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
@@ -38,7 +38,15 @@ Computer Science
 
 I have experience across different industries such as telecomm, banking,
 independent software vendor, information service providers, media and
-printing. During my career I had experience with the following areas:
+printing. Today, my strongest skills are on:
+ 
+* Developing web applications
+* Developing backend services with Python
+* Administrating linux systems and infrastructure
+* Practicing agile devops processes and automation
+* Engineering quality processes throughout the software life-cycle
+
+During my career I had experience with the following areas:
 
 * Development with C, Python, Javascript and Java
 * Software architecture (high availability, web applications, component
@@ -51,15 +59,17 @@ architecture, service oriented architecture, API design)
 * Linux operating systems, applications and utilities
 * Systems monitoring and troubleshooting
 
-I'm Senior Quality Engineer at [Red Hat](https://www.redhat.com/en) (though all opinions and content on this website are my own)
+I'm Senior Quality Engineer at [Red Hat](https://www.redhat.com/en) (though all
+opinions and content on this website and social networks are my own)
 
-In my spare time I'm also a Coffee Roaster, Cupper and Brewer Certified by [London School of Coffee](http://www.londonschoolofcoffee.com/).
+In my spare time I'm also a Coffee Roaster, Cupper and Brewer Certified by
+ [London School of Coffee](http://www.londonschoolofcoffee.com/).
 
 ## Contact
 
 If you want to get in touch with me, email is best:
 
-`tiago at tvieira.com`
+`tiago at tvieira dot com`
 
 Please use my [public key]({{ site.baseurl }}/public/tiago_moreira_vieira.txt)
 to keep our messages confidential.
@@ -77,8 +87,11 @@ My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
 * [Github](https://github.com/tvieira)
 * [Reddit](https://www.reddit.com/user/tiagovieira)
 
-I do have Facebook which I barely update. But when I do, it is to update my family and close friends only.
+I do have Facebook which I barely update. But when I do, it is to update my
+family and close friends only.
+
+Did I tell you something or did some of my
+[projects](https://github.com/tvieira) helped you someway? Consider making a
+ [donation](/donate).
 
 Thanks for reading!
-
-
