@@ -104,6 +104,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
   color: #505050;
 }
+
+body > div.wrap > div.masthead > div > h1 {
+  font-size: 1.25rem;
+}
+
 .masthead-title a {
   color: #505050;
 }
