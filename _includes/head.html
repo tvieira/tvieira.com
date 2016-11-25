@@ -27,5 +27,11 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
+  <!-- Keywords -->
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}" />
+  {% else %}
+  <meta name="keywords" content="freelance, developer, wirral, web development, development, freelance developer, python, javascript, front-end developer, Tiago Vieira, tiagovieira, tmoreira, sofware engineer, backend developer" />
+  {% endif %}
   {% seo title=false %}
 </head>
