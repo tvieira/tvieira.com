@@ -5,6 +5,7 @@ status: published
 type: page
 published: true
 comments: false
+keywords: archive, posts, articles, tiago vieira
 ---
 
 {% for post in site.posts %}

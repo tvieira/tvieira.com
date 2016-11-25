@@ -5,6 +5,7 @@ status: published
 type: page
 published: true
 comments: false
+keywords: donate, tiago vieira, help, projects
 ---
 
 Did I tell you something that was useful to you or did some of my [projects](https://github.com/tvieira) helped you somehow? 

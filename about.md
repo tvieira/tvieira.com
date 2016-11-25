@@ -5,6 +5,7 @@ status: published
 type: page
 published: true
 comments: false
+keywords: about, tiago vieira, personal info, career, open source, certifications, projects
 ---
 
 [Open source](https://opensource.com/resources/what-open-source) advocate,
