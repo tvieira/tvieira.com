@@ -1,4 +1,8 @@
-gems: [jekyll-paginate, jekyll-gist, jekyll-sitemap]
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 permalink: pretty
 
@@ -11,6 +15,7 @@ description:  'A place to push my thoughts on software engineering, infosec
               target="_blank">@tiagovieira</a>.'
 url:          http://tvieira.com
 baseurl:      ''
+image:        https://pbs.twimg.com/profile_images/1734754783/personal_mkt.png
 paginate:     5
 
 highlighter:  rouge
@@ -23,6 +28,21 @@ author:
   name:       Tiago M. Vieira
   url:        https://twitter.com/tiagovieira
   email:      tiago@tvieira.com
+  twitter:    tiagovieira
+
+twitter:
+  username:   tiagovieira
+
+social:
+  name: Tiago M. Vieira
+  links:
+    - https://twitter.com/tiagovieira
+    - https://www.facebook.com/tvieira.br
+    - https://uk.linkedin.com/in/tiagovieira
+    - https://github.com/tvieira
+    - https://keybase.io/tmoreira
+    - https://www.reddit.com/user/tiagovieira
+    - https://plus.google.com/u/0/+TiagoVieiraBR
 
 collections:
   - badges
