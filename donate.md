@@ -2,7 +2,7 @@
 layout: page
 title: Donate
 status: published
-type: post
+type: page
 published: true
 comments: false
 ---

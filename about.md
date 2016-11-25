@@ -1,6 +1,10 @@
 ---
 layout: page
 title: About
+status: published
+type: page
+published: true
+comments: false
 ---
 
 [Open source](https://opensource.com/resources/what-open-source) advocate,

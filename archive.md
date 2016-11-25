@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Archive
+status: published
+type: page
+published: true
+comments: false
 ---
 
 {% for post in site.posts %}
