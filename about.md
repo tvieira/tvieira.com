@@ -90,7 +90,7 @@ My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
 I do have Facebook which I barely update. But when I do, it is to update my
 family and close friends only.
 
-Did I tell you something or did some of my
+Did I tell you something that was useful to you or did some of my
 [projects](https://github.com/tvieira) helped you someway? Consider making a
  [donation](/donate).
 

@@ -7,7 +7,7 @@ published: true
 comments: false
 ---
 
-Did I tell you something or did some of my [projects](https://github.com/tvieira) helped you someway? 
+Did I tell you something that was useful to you or did some of my [projects](https://github.com/tvieira) helped you someway? 
 
 It is a pleasure to help open source communities and people. I do this because I believe we will have a better World if we all help each other through what we believe are our best capabilities - and technology has always been my biggest passion. I do not expect anything in return of my help, but throughout many years I see some people assuming they won't ask for help anymore because they were shy or because they were feeling they have to give something back to me and they don't know what.
  
