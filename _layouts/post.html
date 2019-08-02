@@ -5,11 +5,15 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  <!--<a class="twitter-share-button"
-     href="https://twitter.com/intent/tweet?text={{ post.title }}&via=tiagovieira"
-     >Tweet</a>-->
-  <a href="https://twitter.com/share" class="twitter-share-button"
-     data-size="large" data-text="{{ page.title }}" data-via="tiagovieira" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <a class="twitter-share-button"
+    href="https://twitter.com/intent/tweet?text={{ page.title }}"
+    data-size="large" 
+    data-url="{{ site.url }}{{site.baseurl}}{{ post.url }}"
+    data-via="tiagovieira"
+    data-show-count="false">Tweet
+  </a>
+
   {{ content }}
 </div>
 

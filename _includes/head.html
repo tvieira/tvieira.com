@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/lanyon.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
@@ -28,11 +28,9 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
+  {% if page.description %}
   <!-- Keywords -->
-  {% if page.keywords %}
-  <meta name="keywords" content="{{ page.keywords }}" />
-  {% else %}
-  <meta name="keywords" content="freelance, developer, wirral, web development, development, freelance developer, python, javascript, front-end developer, Tiago Vieira, tiagovieira, tmoreira, sofware engineer, backend developer" />
+  <meta name="description" content="{{ page.description }}" />
   {% endif %}
-  {% seo title=false %}
+
 </head>

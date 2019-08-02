@@ -5,7 +5,7 @@ status: published
 type: page
 published: true
 comments: false
-keywords: freelance, developer, web development, app development, freelance developer, python, javascript, frontend developer, Tiago Vieira, tiagovieira, tmoreira, sofware engineer, backend developer
+description: My website is a place to push my thoughts on software engineering in general, infosec, general aviation and politics. Views are my own.
 ---
 <div class="posts">
   {% for post in paginator.posts %}
@@ -18,8 +18,13 @@ keywords: freelance, developer, web development, app development, freelance deve
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    <a href="https://twitter.com/share" class="twitter-share-button"
-       data-size="large" data-text="{{ post.title }}" data-url="{{ site.url }}{{site.baseurl}}{{ post.url }}" data-via="tiagovieira" data-show-count="false">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <a class="twitter-share-button"
+      href="https://twitter.com/intent/tweet?text={{ page.title }}"
+      data-size="large" 
+      data-url="{{ site.url }}{{site.baseurl}}{{ post.url }}"
+      data-via="tiagovieira"
+      data-show-count="false">Tweet
+    </a>
 
     {{ post.content }}
 

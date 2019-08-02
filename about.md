@@ -5,7 +5,6 @@ status: published
 type: page
 published: true
 comments: false
-keywords: about, tiago vieira, personal info, career, open source, certifications, projects
 ---
 
 ## Disclaimer
@@ -20,11 +19,11 @@ Opinions expressed are solely my own and do not express the views or opinions of
 books-lover, coffee-lover, information security paranoid + skeptical
 inquirer and [open data](https://en.wikipedia.org/wiki/Open_data) supporter.
 
-I have over 17 years of professional experience contributing and leading the implementations of technical solutions and the development of technology products. I have both started my own company and have had the chance to further progress my career in an international setting.
+I have over 18 years of professional experience contributing and leading the implementations of technical solutions and the development of technology products. I have both started my own company and have had the chance to further progress my career in an international setting.
 
 I continuously apply the knowledge acquired through my professional experiences to increase systems quality in competitive and demanding environments. I gain tremendous professional satisfaction leading companies and people through difficult challenges and opportunities ensuring their goals are achieved in an efficient and sustainable manner.
 
-I'm a full stack software engineer and I have extensive experience on software engineering and IT operations (devops). The tools and framework I've been using in most recent years are: python, C, ansible, linux hardening, configuration and troubleshooting (apache httpd, nginx, samba, NFS, email, DNS), packaging (RPM, Distutils), Jenkins (Hudson) for continuous integration and continuous delivery (CI/CD), Flask, Django, Red Hat OpenShift (OKD), Istio, Kubernetes, KVM (virtualization tools) and Docker for micro-services and API development (composing and deploying service mesh). 
+I'm a software engineer and I have extensive experience on software engineering n general and IT operations (sysadmin and devops). The tools and framework I've been using in most recent years are: python, C, Golang, ansible, linux hardening, configuration and troubleshooting (apache httpd, nginx, samba, NFS, email, DNS), packaging (RPM, Distutils), Jenkins (Hudson) for continuous integration and continuous delivery (CI/CD), Flask, Django, Red Hat OpenShift (OKD), Istio, Kubernetes, KVM (virtualization tools) and Docker for micro-services and API development (composing and deploying service mesh).
 
 ## Education and certifications
 
@@ -33,7 +32,7 @@ I'm a full stack software engineer and I have extensive experience on software e
 .uk/softeng/security/) from University of Oxford
 * [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in Computer Science from [Pontifícia Universidade Católica de Minas Gerais](http://www.pucpcaldas.br/)
 * [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
-* [RHCA - Red Hat Certified Architect in Infrastructure](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
+* [RHCA III - Red Hat Certified Architect in Infrastructure](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
 * [CTFL - Certified Tester Foundation Level](https://www.astqb.org/sections/list-of-certified-testers.php)
 
 ## Professional experience
@@ -41,9 +40,9 @@ I'm a full stack software engineer and I have extensive experience on software e
 I have experience across different industries such as telecomm, banking,
 independent software vendor, information service providers, media and
 printing. Today, my strongest skills are on:
- 
-* Developing web applications
-* Developing backend services with Python or C
+
+* Developing web applications (web services, microservices, api, content management systems)
+* Developing with Python
 * Administrating linux systems and infrastructure
 * Building continuous delivery (CDR), continuous deployment (CD) and continuous integration (CI) solutions
 * Practicing agile devops processes and automation
@@ -51,18 +50,18 @@ printing. Today, my strongest skills are on:
 
 During my career I had experience with the following areas:
 
-* Development with C, Python, Javascript and Java
+* Development with C, Python, Golang, Javascript and Java
 * Software architecture (high availability, web applications, component architecture, service oriented architecture, API design)
 * Build and Release systems
 * Infosec risk analysis and management
 * Software and systems automation
-* Configuration management ([Ansible](https://www.ansible.com/), [Puppet](https://puppet.com/) and [Chef](https://www.chef.io/))
+* Configuration management ([Ansible](https://www.ansible.com/) and [Puppet](https://puppet.com/))
 * Linux operating systems, applications and utilities
 * Systems monitoring and troubleshooting
 
-Currently Lead all the quality efforts around Istio on top of OpenShift Container Platform. The work includes setting up and maintaining a continuous integration & continuous deployment infrastructure, coordinate testing efforts with other teams and test & release planning. It also includes test execution of unit, component, integration, interoperability and acceptance testing.
+Currently Lead all the quality efforts around Istio on top of OpenShift Container Platform at Red Hat. The work includes setting up and maintaining a continuous integration & continuous deployment infrastructure, coordinate testing efforts with other teams and test & release planning. It also includes test execution of unit, component, integration, interoperability and acceptance testing.
 
-In my spare time I'm a Coffee Roaster, Cupper and Brewer Certified by [London School of Coffee](http://www.londonschoolofcoffee.com/) and I'm currently studying to acquire a private pilot license at the [East Coast Aero Club](http://eastcoastaeroclub.com/), in Massachusetts USA.
+I am addicted to coffee. In the past I studied coffee roasting, cupping and brewing and at the [London School of Coffee](http://www.londonschoolofcoffee.com/). I always dreamed in becoming a private pilot and be able to fly single-engine aircrafts. I'm currently studying and practicing to obtain a private pilot license at the [East Coast Aero Club](http://eastcoastaeroclub.com/), in Massachusetts USA.
 
 ## Contact
 

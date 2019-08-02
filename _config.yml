@@ -2,17 +2,14 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-sitemap
-  - jekyll-seo-tag
 
 permalink: pretty
 
 # Setup
 title:        Tiago M. Vieira
-tagline:      'on software engineering in general'
-description:  'A place to push my thoughts on software engineering, infosec
-              and politics. Views are my own. Made by <a
-              href="https://twitter.com/tiagovieira"
-              target="_blank">@tiagovieira</a>.'
+tagline:      'on software engineering, general aviation and other things'
+description:  'A place to push my thoughts on software engineering, infosec,
+               general aviation and politics. Views are my own.'
 url:          http://tvieira.com
 baseurl:      ''
 image:        https://pbs.twimg.com/profile_images/1734754783/personal_mkt.png
@@ -37,12 +34,10 @@ social:
   name: Tiago M. Vieira
   links:
     - https://twitter.com/tiagovieira
-    - https://www.facebook.com/tvieira.br
     - https://uk.linkedin.com/in/tiagovieira
     - https://github.com/tvieira
     - https://keybase.io/tmoreira
     - https://www.reddit.com/user/tiagovieira
-    - https://plus.google.com/u/0/+TiagoVieiraBR
 
 collections:
   - badges
