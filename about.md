@@ -32,7 +32,7 @@ I'm a software engineer and I have extensive experience on software engineering 
 .uk/softeng/security/) from University of Oxford
 * [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in Computer Science from [Pontifícia Universidade Católica de Minas Gerais](http://www.pucpcaldas.br/)
 * [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
-* [RHCA III - Red Hat Certified Architect in Infrastructure](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
+* [RHCA - Red Hat Certified Architect in Infrastructure, Level IV](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
 * [CTFL - Certified Tester Foundation Level](https://www.astqb.org/sections/list-of-certified-testers.php)
 
 ## Professional experience
