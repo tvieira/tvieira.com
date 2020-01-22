@@ -19,7 +19,7 @@ Opinions expressed are solely my own and do not express the views or opinions of
 books-lover, coffee-lover, information security paranoid + skeptical
 inquirer and [open data](https://en.wikipedia.org/wiki/Open_data) supporter.
 
-I have over 18 years of professional experience contributing and leading the implementations of technical solutions and the development of technology products. I have both started my own company and have had the chance to further progress my career in an international setting.
+I have over 19 years of professional experience contributing and leading the implementations of technical solutions and the development of technology products. I have both started my own company and have had the chance to further progress my career in an international setting.
 
 I continuously apply the knowledge acquired through my professional experiences to increase systems quality in competitive and demanding environments. I gain tremendous professional satisfaction leading companies and people through difficult challenges and opportunities ensuring their goals are achieved in an efficient and sustainable manner.
 
@@ -32,7 +32,7 @@ I'm a software engineer and I have extensive experience on software engineering 
 .uk/softeng/security/) from University of Oxford
 * [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in Computer Science from [Pontifícia Universidade Católica de Minas Gerais](http://www.pucpcaldas.br/)
 * [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
-* [RHCA - Red Hat Certified Architect in Infrastructure, Level IV](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
+* [RHCA - Red Hat Certified Architect in Infrastructure, Level V](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
 * [CTFL - Certified Tester Foundation Level](https://www.astqb.org/sections/list-of-certified-testers.php)
 
 ## Professional experience
