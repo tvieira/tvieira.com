@@ -20,11 +20,9 @@ Worry you must not. If you want to help me because I helped you or even because 
 
 * Go to my [Linkedin](https://linkedin.com/in/tiagovieira) profile and give me a testimonial and +1 in my skills.
 
-* Say thank you via my [Say Thanks Link](https://saythanks.io/to/tvieira)
-
 * Give me some cash - many of applications and books I use for researching and studying I paid with my own money - you can help me on recovering these investments. Go to my [Paypal](https://www.paypal.me/tmvieira) and give me as much as you want - I appreciate it and be assured I will reinvest it by buying more books or donating to open source communities.
 
-* If giving money doesn't feel good to you, I still want to have few books for references and research - take a look at my [Amazon wish list](http://amzn.eu/eXHgBnK).
+* If giving money doesn't feel good to you, I still want to have few books for references and research - take a look at my [Amazon wish list](https://www.amazon.com/hz/wishlist/ls/CPH7XLH21MQ1?ref=cm_sw_em_r_wl_dp_ubSx6lyGiAibQ).
 
 * Donate to the open source community directly - I would suggest you to donate to [Python Software Foundation](https://www.python.org/psf/donations/). They help many other projects with your donations.
 
