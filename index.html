@@ -5,29 +5,18 @@ status: published
 type: page
 published: true
 comments: false
-description: My website is a place to push my thoughts on software engineering in general, infosec, general aviation and politics. Views are my own.
+description: 
 ---
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ site.url }}{{site.baseurl}}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
-
+    </h3>
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    <a class="twitter-share-button"
-      href="https://twitter.com/intent/tweet?text={{ page.title }}"
-      data-size="large" 
-      data-url="{{ site.url }}{{site.baseurl}}{{ post.url }}"
-      data-via="tiagovieira"
-      data-show-count="false">Tweet
-    </a>
-
-    {{ post.content }}
-
+    {{ post.content | strip_html | truncatewords:45 }}
   </div>
   {% endfor %}
 </div>

@@ -1,0 +1,105 @@
+/*
+ * Modifications on top of poole and lanyon
+ */
+
+ html,
+ body {
+   font-family: "IBM Plex Sans", "PT Sans", Helvetica, Arial, sans-serif;
+   line-height: 1.8;
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+    font-family: "IBM Plex Sans", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+.masthead-title ul {
+    position: relative;
+    padding-left: 0;
+    list-style: none;
+    float: right;
+    display: block;
+    margin-bottom: 30px;
+}
+
+.masthead-title ul.social li {
+    margin: 0 10px;
+    font-size: 70%;
+    display: inline-block;
+}
+
+.masthead-title ul.social li a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 28rem;
+  }
+  @media (min-width: 42em) {
+    .container {
+      max-width: 32rem;
+    }
+  }
+  @media (min-width: 59em) {
+    .container {
+      max-width: 42rem;
+    }
+}
+
+@media (max-width: 48em) {
+    .masthead-title {
+      text-align: center;
+    }
+    .masthead-title small {
+      display: none;
+    }
+    .masthead-title ul.social li.nosmall {
+      display: none;
+    }
+}
+
+.page-title, .post-title, .post-title a {
+    color: #4788f2;
+}
+
+p {
+    margin: 20px 0 20px 0;
+    font-family: "IBM Plex Sans", "PT Sans", Helvetica, Arial, sans-serif;
+}
+
+
+.page, .post {
+    margin-bottom: 2em;
+}
+
+ .page-title,
+ .post-title {
+   margin: .67em 0;
+}
+
+.post-date {
+    font-size: 16px;
+    font-weight: 600;
+    color: #666;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.footnotes {
+    font-size: 80%;
+}
+
+.footnotes p {
+    margin: 0;
+}
+
+.footnotes li {
+    margin-bottom: 5px;
+}
+
+footer {
+    position: relative;
+    padding: 10px 20px;
+    display: block;
+    text-align: left;
+    font-size: 70%;
+    color: #dfdfdf;
+}

@@ -3,7 +3,7 @@ layout: page
 title: Donate
 status: published
 type: page
-published: true
+published: false
 comments: false
 keywords: donate, tiago vieira, help, projects
 ---
@@ -29,3 +29,7 @@ Worry you must not. If you want to help me because I helped you or even because 
 You may ask yourself "is this guy working for free then?" - of course not! I have a family and they need shelter and food, I have to pay my bills and the school for my kids. Because of that I do have a regular job where I use the best of my capabilities to help the company grow and succeed on its goals. I do help people and communities in my spare time.
 
 I'm glad I could help you and I thank you very much in advance, and __may the force be with you__. (-:
+
+<!-- Did I tell you something that was useful to you or did some of my
+[projects](https://github.com/tvieira) helped you somehow? Consider making a
+ [donation](/donate). -->

@@ -13,10 +13,7 @@ Opinions expressed are solely my own and do not express the views or opinions of
 
 ## About me
 
-Father of 2 (girl and boy), [Open source](https://opensource.com/resources/what-open-source) advocate,
-[pythonista](https://en.wikipedia
-.org/wiki/Python_%28programming_language%29), linux nerd,
-coffee-lover, information security paranoid + skeptical
+[Open source](https://opensource.com/resources/what-open-source) advocate, [pythonista](https://en.wikipedia.org/wiki/Python_%28programming_language%29), linux nerd coffee-lover, information security paranoid + skeptical
 inquirer, and student pilot.
 
 I have over 19 years of professional experience contributing and leading the implementations of technical solutions and the development of technology products. I have both started my own company and have had the chance to further progress my career in an international setting.
@@ -84,9 +81,5 @@ My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
 * [Twitter](https://twitter.com/tiagovieira)
 * [Github](https://github.com/tvieira)
 * [Reddit](https://www.reddit.com/user/tiagovieira)
-
-Did I tell you something that was useful to you or did some of my
-[projects](https://github.com/tvieira) helped you somehow? Consider making a
- [donation](/donate).
 
 Thanks for reading!

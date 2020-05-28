@@ -2,18 +2,20 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-twitter-plugin
 
 permalink: pretty
 
 # Setup
-title:        Tiago M. Vieira
-tagline:      'on software engineering, general aviation and other things'
-description:  'A place to push my thoughts on software engineering, infosec,
-               general aviation and politics. Views are my own.'
-url:          http://tvieira.com
+title:        Tiago Vieira
+tagline:      'Dispersing thoughts'
+description:  'rambling words on technology in general, software engineering,
+               politics, and disturbing technology behaviours.'
+url:          https://tvieira.com
 baseurl:      ''
 image:        https://pbs.twimg.com/profile_images/1734754783/personal_mkt.png
-paginate:     5
+paginate:     10
 
 highlighter:  rouge
 
@@ -22,7 +24,7 @@ kramdown:
   syntax_highlighter: rouge
 
 author:
-  name:       Tiago M. Vieira
+  name:       Tiago Vieira
   url:        https://twitter.com/tiagovieira
   email:      tiago@tvieira.com
   twitter:    tiagovieira
@@ -31,7 +33,7 @@ twitter:
   username:   tiagovieira
 
 social:
-  name: Tiago M. Vieira
+  name: Tiago Vieira
   links:
     - https://twitter.com/tiagovieira
     - https://uk.linkedin.com/in/tiagovieira
