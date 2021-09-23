@@ -56,9 +56,9 @@ During my career I had experience with the following areas:
 * Linux operating systems, applications and utilities
 * Systems monitoring and troubleshooting
 
-I currently lead the quality engineering efforts for the [OpenShift Service Mesh](https://docs.openshift.com/container-platform/4.3/service_mesh/service_mesh_arch/understanding-ossm.html) (Istio, Kiali and Jaeger) at Red Hat. The work includes setting up and maintaining a continuous integration & continuous deployment infrastructure, coordinate testing efforts with adjacent teams, and managing tests & release planning. I also develop tests in all levels: unit, component, integration, interoperability and acceptance testing.
+Currently I am a senior Account Solutions Architect at Red Hat and my day to day work is to help our customers define what's best for their hybrid cloud infrastructure, in addition to help them drive a successful cloud native development implementation.
 
-Along side mu technologist career, I am a coffee enthusiast. I was previously trained in coffee roasting, cupping and brewing at the [London School of Coffee](http://www.londonschoolofcoffee.com/). I also enrolled in a private pilot training at at the [East Coast Aero Club](http://eastcoastaeroclub.com/), and in the past year I've been flying single-engine aircrafts across the New England region.
+Along side my technologist career, I am a coffee enthusiast. I was previously trained in coffee roasting, cupping and brewing at the [London School of Coffee](http://www.londonschoolofcoffee.com/). I also enrolled in a private pilot training at at the [East Coast Aero Club](http://eastcoastaeroclub.com/), and in the past years I've been flying single-engine aircrafts across the New England region.
 
 ## Contact
 
