@@ -26,35 +26,35 @@ I'm a software engineer and I have extensive experience on software engineering 
 
 Education is very important to me, and I've been constantly updating my skills by learning and practicing new things. Here it is a list of my most valuable education achievements:
 
-* [PgDip](https://en.wikipedia.org/wiki/Postgraduate_diploma#England
-.2C_Wales_and_Scotland) in [Software and System Security](http://www.cs.ox.ac
-.uk/softeng/security/) from University of Oxford
-* [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in Computer Science from [Pontifícia Universidade Católica de Minas Gerais](http://www.pucpcaldas.br/)
-* [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
-* [RHCA - Red Hat Certified Architect in Infrastructure, Level V](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
-* [CTFL - Certified Tester Foundation Level](https://www.astqb.org/sections/list-of-certified-testers.php)
+- [PgDip](https://en.wikipedia.org/wiki/Postgraduate_diploma#England
+  .2C_Wales_and_Scotland) in [Software and System Security](http://www.cs.ox.ac
+  .uk/softeng/security/) from University of Oxford
+- [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in Computer Science from [Pontifícia Universidade Católica de Minas Gerais](http://www.pucpcaldas.br/)
+- [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
+- [RHCA - Red Hat Certified Architect in Infrastructure, Level VI](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
+- [CTFL - Certified Tester Foundation Level](https://www.astqb.org/sections/list-of-certified-testers.php)
 
 ## Professional experience
 
 I spent many years working on technology startups, and I have experience across different industries such as: telecomm, banking, independent software vendor, information service providers, media and printing. Today, my strongest skills are on:
 
-* Developing web applications (web services, microservices, api, content management systems)
-* Developing with Python, Flask, and Django
-* Administrating linux systems and infrastructure
-* Building continuous delivery (CDR), continuous deployment (CD) and continuous integration (CI) solutions
-* Practicing agile devops processes and automation
-* Engineering quality processes throughout the software life-cycle
+- Developing web applications (web services, microservices, api, content management systems)
+- Developing with Python, Flask, and Django
+- Administrating linux systems and infrastructure
+- Building continuous delivery (CDR), continuous deployment (CD) and continuous integration (CI) solutions
+- Practicing agile devops processes and automation
+- Engineering quality processes throughout the software life-cycle
 
 During my career I had experience with the following areas:
 
-* Development with C, Python, Golang and Javascript
-* Software architecture (high availability, scalable web applications, component architecture, service oriented architecture, API design)
-* Build and Release systems
-* Infosec risk analysis and management
-* Software and systems automation
-* Configuration management ([Ansible](https://www.ansible.com/) and [Puppet](https://puppet.com/))
-* Linux operating systems, applications and utilities
-* Systems monitoring and troubleshooting
+- Development with C, Python, Golang and Javascript
+- Software architecture (high availability, scalable web applications, component architecture, service oriented architecture, API design)
+- Build and Release systems
+- Infosec risk analysis and management
+- Software and systems automation
+- Configuration management ([Ansible](https://www.ansible.com/) and [Puppet](https://puppet.com/))
+- Linux operating systems, applications and utilities
+- Systems monitoring and troubleshooting
 
 Currently I am a senior Account Solutions Architect at Red Hat and my day to day work is to help our customers define what's best for their hybrid cloud infrastructure, in addition to help them drive a successful cloud native development implementation.
 
@@ -77,9 +77,9 @@ My keybase is [https://keybase.io/tmoreira](https://keybase.io/tmoreira)
 
 ## Social Profile
 
-* [Linkedin](https://uk.linkedin.com/in/tiagovieira)
-* [Twitter](https://twitter.com/tiagovieira)
-* [Github](https://github.com/tvieira)
-* [Reddit](https://www.reddit.com/user/tiagovieira)
+- [Linkedin](https://uk.linkedin.com/in/tiagovieira)
+- [Twitter](https://twitter.com/tiagovieira)
+- [Github](https://github.com/tvieira)
+- [Reddit](https://www.reddit.com/user/tiagovieira)
 
 Thanks for reading!
