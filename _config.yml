@@ -23,7 +23,7 @@ kramdown:
   syntax_highlighter: rouge
 
 author:
-  name:       Tiago Vieira
+  name:       Tiago Moreira Vieira
   url:        https://twitter.com/tiagovieira
   email:      tiago@tvieira.com
   twitter:    tiagovieira
@@ -32,7 +32,7 @@ twitter:
   username:   tiagovieira
 
 social:
-  name: Tiago Vieira
+  name: Tiago Moreira Vieira
   links:
     - https://twitter.com/tiagovieira
     - https://uk.linkedin.com/in/tiagovieira
