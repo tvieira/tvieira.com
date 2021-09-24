@@ -5,13 +5,14 @@ status: published
 type: page
 published: true
 comments: false
-description: 
+description:
 ---
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h3 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.url | absolute_url }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h3>
@@ -23,18 +24,26 @@ description:
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+  <a
+    class="pagination-item older"
+    href="{{ site.url | absolute_url }}/page{{paginator.next_page}}"
+    >Older</a
+  >
   {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
+  <span class="pagination-item older">Older</span>
+  {% endif %} {% if paginator.previous_page %} {% if paginator.page == 2 %}
+  <a
+    class="pagination-item newer"
+    href="{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+    >Newer</a
+  >
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+  <a
+    class="pagination-item newer"
+    href="{{ site.baseurl }}/page{{paginator.previous_page}}"
+    >Newer</a
+  >
+  {% endif %} {% else %}
+  <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-

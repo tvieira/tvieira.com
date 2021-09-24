@@ -11,7 +11,9 @@
       <div class="masthead">
         <div class="container">
           <h1 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{site.title }}</a>
+            <a href="{{ site.url }}{{ site.baseurl }}" title="Home"
+              >{{site.title }}</a
+            >
             <small>{{ site.tagline }}</small>
             <ul class="social pull-right">
               <li>
@@ -38,7 +40,7 @@
               <li class="nosmall">
                 <a
                   class="fa fa-rss"
-                  href="{{ site.url | absolute_url }}atom.xml"
+                  href="{{ site.url | absolute_url }}/atom.xml"
                   target="_blank"
                 ></a>
               </li>
