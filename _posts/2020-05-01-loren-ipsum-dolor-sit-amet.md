@@ -4,7 +4,7 @@ title: Lorem ipsum dolor sit amet
 status: published
 type: post
 published: true
-comments: true
+comments: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu non diam phasellus vestibulum lorem sed risus ultricies tristique. Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Lorem mollis aliquam ut porttitor leo a diam sollicitudin. Leo urna molestie at elementum eu facilisis sed. Id consectetur purus ut faucibus pulvinar elementum integer. Porttitor rhoncus dolor purus non enim praesent elementum. Nunc eget lorem dolor sed viverra ipsum. Sem et tortor consequat id porta nibh venenatis cras. Sit amet aliquam id diam maecenas ultricies. Eu scelerisque felis imperdiet proin. Cursus metus aliquam eleifend mi. Ultricies lacus sed turpis tincidunt id aliquet risus feugiat in. Enim neque volutpat ac tincidunt vitae semper quis. At urna condimentum mattis pellentesque.
@@ -17,5 +17,6 @@ Sed turpis tincidunt id aliquet. Egestas pretium aenean pharetra magna ac placer
 
 Volutpat est velit egestas dui id ornare. Vitae aliquet nec ullamcorper sit amet risus nullam eget felis. Risus ultricies tristique nulla aliquet enim tortor at. Sed tempus urna et pharetra pharetra massa massa ultricies. Fermentum dui faucibus in ornare quam viverra orci. Risus in hendrerit gravida rutrum. Aliquet lectus proin nibh nisl condimentum id venenatis. Pellentesque elit eget gravida cum sociis. Sed lectus vestibulum mattis ullamcorper. Faucibus pulvinar elementum integer enim. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Gravida arcu ac tortor dignissim convallis aenean. Semper auctor neque vitae tempus quam pellentesque. Semper quis lectus nulla at volutpat diam ut venenatis. Ac tortor dignissim convallis aenean et tortor at risus viverra. Dolor morbi non arcu risus quis varius. Nisl pretium fusce id velit ut tortor pretium. Vel pharetra vel turpis nunc eget.
 
-___
+---
+
 [^1]: Some footnote.

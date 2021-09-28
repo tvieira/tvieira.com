@@ -12,12 +12,12 @@ Gem::Specification.new do |s|
   end
 
   s.platform = Gem::Platform::RUBY
-  s.add_runtime_dependency 'jekyll', '~> 3.5'
-  s.add_runtime_dependency 'jekyll-seo-tag', '~> 2.0'
+  s.add_runtime_dependency 'jekyll', '~> 4.2'
+  s.add_runtime_dependency 'jekyll-seo-tag'
   s.add_runtime_dependency 'jekyll-paginate'
   s.add_runtime_dependency 'jekyll-gist'
   s.add_runtime_dependency 'jekyll-sitemap'
-  s.add_development_dependency 'html-proofer', '~> 3.0'
-  s.add_development_dependency 'rubocop', '~> 0.50'
-  s.add_development_dependency 'w3c_validators', '~> 1.3'
+  s.add_development_dependency 'html-proofer'
+  s.add_development_dependency 'rubocop'
+  s.add_development_dependency 'w3c_validators'
 end
