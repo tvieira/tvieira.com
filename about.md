@@ -56,8 +56,6 @@ During my career I had experience with the following areas:
 - Linux operating systems, applications and utilities
 - Systems monitoring and troubleshooting
 
-Currently I am a senior Account Solutions Architect at Red Hat and my day to day work is to help our customers define what's best for their hybrid cloud infrastructure, in addition to help them drive a successful cloud native development implementation.
-
 Along side my technologist career, I am a coffee enthusiast. I was previously trained in coffee roasting, cupping and brewing at the [London School of Coffee](http://www.londonschoolofcoffee.com/). I also enrolled in a private pilot training at at the [East Coast Aero Club](http://eastcoastaeroclub.com/), and in the past years I've been flying single-engine aircrafts across the New England region.
 
 ## Contact
