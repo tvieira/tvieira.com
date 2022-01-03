@@ -31,7 +31,7 @@ Education is very important to me, and I've been constantly updating my skills b
   .uk/softeng/security/) from University of Oxford
 - [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in Computer Science from [Pontifícia Universidade Católica de Minas Gerais](http://www.pucpcaldas.br/)
 - [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
-- [RHCA - Red Hat Certified Architect in Infrastructure, Level VI](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
+- [RHCA - Red Hat Certified Architect in Infrastructure, +15 certifications achieved](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
 - [CTFL - Certified Tester Foundation Level](https://www.astqb.org/sections/list-of-certified-testers.php)
 
 ## Professional experience
