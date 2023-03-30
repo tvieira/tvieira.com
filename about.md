@@ -16,11 +16,15 @@ Opinions expressed are solely my own and do not express the views or opinions of
 [Open source](https://opensource.com/resources/what-open-source) advocate, [pythonista](https://en.wikipedia.org/wiki/Python_%28programming_language%29), linux nerd coffee-lover, information security paranoid + skeptical
 inquirer, and student pilot.
 
-I have over 19 years of professional experience contributing and leading the implementations of technical solutions and the development of technology products. I have both started my own company and have had the chance to further progress my career in an international setting.
+I'm a sales engineer with a passion for technology and helping clients succeed. With 19 years of experience in software engineering, I bring a unique perspective to sales, combining technical knowledge with sales expertise to deliver solutions that meet the clients' needs.
 
-I continuously apply the knowledge acquired through my professional experiences to increase systems quality in very competitive and demanding environments. I gain tremendous professional satisfaction leading companies and people through difficult challenges and opportunities ensuring their goals are achieved in an efficient and sustainable manner.
+My experience in software engineering has given me the ability to analyze complex problems and develop innovative solutions that leverage cutting-edge technology. As a sales engineer, I work closely with clients to understand their business objectives and develop custom solutions that deliver measurable results.
 
-I'm a software engineer and I have extensive experience on software engineering and IT systems operations. The tools, languages, and frameworks I've been using in most recent years are: python, C, Golang, Ansible, linux hardening, configuration and troubleshooting (apache httpd, nginx, samba, NFS, email, DNS), packaging (RPM, Distutils), Jenkins pipeline for continuous integration and continuous delivery (CI/CD), Flask, Django, Red Hat OpenShift (OKD), Istio (composing and deploying service mesh), Kubernetes, KVM (virtualization tools) and Docker for micro-services and API development.
+I believe in building strong relationships with the clients I work with, and I pride myself on my ability to communicate technical concepts in a way that is easy to understand. Whether it's through demos, presentations, or one-on-one conversations, I make sure that the clients have a clear understanding of how our solutions will help their business succeed.
+
+The tools and processes I've been using in most recent years are: Datadog, Python, Golang, C, Ansible, linux hardening, configuring and troubleshooting Linux systems (apache httpd, nginx, samba, NFS, email, DNS), software packaging (RPM), Jenkins and Tekton for continuous integration and continuous delivery (CI/CD), Flask, Django, OpenShift Container Platform, Istio, Kubernetes, KVM (virtualization tools) and Podman (Docker replacement) for micro-services and API development (composing and deploying service mesh). 
+
+I do what I love, and I love what I do.
 
 ## Education and certifications
 
@@ -38,6 +42,7 @@ Education is very important to me, and I've been constantly updating my skills b
 
 I spent many years working on technology startups, and I have experience across different industries such as: telecomm, banking, independent software vendor, information service providers, media and printing. Today, my strongest skills are on:
 
+- Designing observability solutions for enterprise
 - Developing web applications (web services, microservices, api, content management systems)
 - Developing with Python, Flask, and Django
 - Administrating linux systems and infrastructure
