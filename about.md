@@ -16,13 +16,13 @@ Opinions expressed are solely my own and do not express the views or opinions of
 [Open source](https://opensource.com/resources/what-open-source) advocate, [pythonista](https://en.wikipedia.org/wiki/Python_%28programming_language%29), linux nerd coffee-lover, information security paranoid + skeptical
 inquirer, and student pilot.
 
-I'm a sales engineer with a passion for technology and helping clients succeed. With 19 years of experience in software engineering, I bring a unique perspective to sales, combining technical knowledge with sales expertise to deliver solutions that meet the clients' needs.
+I'm a sales engineer with a passion for technology and helping clients succeed. With 20 years of experience in software engineering, I bring a unique perspective to sales, combining technical knowledge with sales expertise to deliver solutions that meet the clients' needs.
 
 My experience in software engineering has given me the ability to analyze complex problems and develop innovative solutions that leverage cutting-edge technology. As a sales engineer, I work closely with clients to understand their business objectives and develop custom solutions that deliver measurable results.
 
 I believe in building strong relationships with the clients I work with, and I pride myself on my ability to communicate technical concepts in a way that is easy to understand. Whether it's through demos, presentations, or one-on-one conversations, I make sure that the clients have a clear understanding of how our solutions will help their business succeed.
 
-The tools and processes I've been using in most recent years are: Datadog, Python, Golang, C, Ansible, linux hardening, configuring and troubleshooting Linux systems (apache httpd, nginx, samba, NFS, email, DNS), software packaging (RPM), Jenkins and Tekton for continuous integration and continuous delivery (CI/CD), Flask, Django, OpenShift Container Platform, Istio, Kubernetes, KVM (virtualization tools) and Podman (Docker replacement) for micro-services and API development (composing and deploying service mesh). 
+The tools and processes I've been using in most recent years are: Datadog, Python, Golang, C, Ansible, linux hardening, configuring and troubleshooting Linux systems (apache httpd, nginx, samba, NFS, email, DNS), software packaging (RPM), Jenkins and Tekton for continuous integration and continuous delivery (CI/CD), Flask, Django, OpenShift Container Platform, Istio, Kubernetes, KVM (virtualization tools) and Podman (Docker replacement) for micro-services and API development (composing and deploying service mesh).
 
 I do what I love, and I love what I do.
 
