@@ -36,7 +36,7 @@ Education is very important to me, and I've been constantly updating my skills b
 - [BSc (Hons)](https://en.wikipedia.org/wiki/Bachelor_of_Science#Brazil) in Computer Science from [Pontifícia Universidade Católica de Minas Gerais](http://www.pucpcaldas.br/)
 - [Empretec (UNCTAD)](http://empretec.unctad.org/) Certified
 - [RHCA - Red Hat Certified Architect in Infrastructure, +15 certifications achieved](https://www.redhat.com/rhtapps/certification/verify/?certId=160-116-729)
-- [CTFL - Certified Tester Foundation Level](https://www.astqb.org/sections/list-of-certified-testers.php)
+- [CTFL - Certified Tester Foundation Level](https://atsqa.org/certified-testers/profile/e36f8457a52642fca0ad7bcb53f0a6cd)
 
 ## Professional experience
 
