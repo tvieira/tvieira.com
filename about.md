@@ -13,14 +13,14 @@ Opinions expressed are solely my own and do not express the views or opinions of
 
 ## About me
 
-[Open source](https://opensource.com/resources/what-open-source) advocate, [pythonista](https://en.wikipedia.org/wiki/Python_%28programming_language%29), linux nerd coffee-lover, information security paranoid + skeptical
-inquirer, and student pilot.
+[Open source](https://opensource.com/resources/what-open-source) advocate, [pythonista](https://en.wikipedia.org/wiki/Python_%28programming_language%29), linux nerd, coffee-lover, information security paranoid + skeptical
+inquirer.
 
 I'm a sales engineer with a passion for technology and helping clients succeed. With 20 years of experience in software engineering, I bring a unique perspective to sales, combining technical knowledge with sales expertise to deliver solutions that meet the clients' needs.
 
-My experience in software engineering has given me the ability to analyze complex problems and develop innovative solutions that leverage cutting-edge technology. As a sales engineer, I work closely with clients to understand their business objectives and develop custom solutions that deliver measurable results.
+My experience in software engineering has given me the ability to analyze complex problems and develop solutions that leverage cutting-edge technology. As a sales engineer, I work closely with clients to understand their business objectives and develop custom solutions that deliver measurable results.
 
-I believe in building strong relationships with the clients I work with, and I pride myself on my ability to communicate technical concepts in a way that is easy to understand. Whether it's through demos, presentations, or one-on-one conversations, I make sure that the clients have a clear understanding of how our solutions will help their business succeed.
+I believe in building strong relationships with the clients I work with, and I pride myself on my ability to communicate technical concepts in a way that is easy to understand. Whether it's through demos, presentations, or one-on-one conversations, I make sure that the clients have a clear understanding of how the solutions will help their business succeed.
 
 The tools and processes I've been using in most recent years are: Datadog, Python, Golang, C, Ansible, linux hardening, configuring and troubleshooting Linux systems (apache httpd, nginx, samba, NFS, email, DNS), software packaging (RPM), Jenkins and Tekton for continuous integration and continuous delivery (CI/CD), Flask, Django, OpenShift Container Platform, Istio, Kubernetes, KVM (virtualization tools) and Podman (Docker replacement) for micro-services and API development (composing and deploying service mesh).
 
@@ -28,7 +28,7 @@ I do what I love, and I love what I do.
 
 ## Education and certifications
 
-Education is very important to me, and I've been constantly updating my skills by learning and practicing new things. Here it is a list of my most valuable education achievements:
+I’m really passionate about learning, and I’m always picking up new skills and putting them into practice. Here are some of the educational achievements I’m most proud of:
 
 - [PgDip](https://en.wikipedia.org/wiki/Postgraduate_diploma#England
   .2C_Wales_and_Scotland) in [Software and System Security](http://www.cs.ox.ac
@@ -40,7 +40,7 @@ Education is very important to me, and I've been constantly updating my skills b
 
 ## Professional experience
 
-I spent many years working on technology startups, and I have experience across different industries such as: telecomm, banking, independent software vendor, information service providers, media and printing. Today, my strongest skills are on:
+I spent many years working for technology startups, and I have experience across different industries such as: telecomm, banking, independent software vendor, information service providers, media and printing. Today, my strongest skills are on:
 
 - Designing observability solutions for enterprise
 - Developing web applications (web services, microservices, api, content management systems)
@@ -59,9 +59,9 @@ During my career I had experience with the following areas:
 - Software and systems automation
 - Configuration management ([Ansible](https://www.ansible.com/) and [Puppet](https://puppet.com/))
 - Linux operating systems, applications and utilities
-- Systems monitoring and troubleshooting
+- Distributed systems monitoring and troubleshooting
 
-Along side my technologist career, I am a coffee enthusiast. I was previously trained in coffee roasting, cupping and brewing at the [London School of Coffee](http://www.londonschoolofcoffee.com/). I also enrolled in a private pilot training at at the [East Coast Aero Club](http://eastcoastaeroclub.com/), and in the past years I've been flying single-engine aircrafts across the New England region.
+Along side my technologist career, I am a coffee enthusiast. I was previously trained in coffee roasting, cupping and brewing at the [London School of Coffee](http://www.londonschoolofcoffee.com/). I also enjoy off-road riding and you can find me around the Mantiqueira mountains riding my motorcycle or my 4x4 truck.
 
 ## Contact
 
