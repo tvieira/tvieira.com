@@ -7,38 +7,35 @@ plugins:
 permalink: pretty
 
 # Setup
-title:        Tiago M. Vieira
-tagline:      'Dispersing thoughts'
-description:  'rambling words on technology in general, software engineering,
-               politics, and disturbing technology behaviours.'
-url:          'https://tvieira.com'
-baseurl:      ''
-image:        https://pbs.twimg.com/profile_images/1734754783/personal_mkt.png
-paginate:     10
+title: Tiago M. Vieira
+tagline: "Dispersing thoughts"
+description: "rambling words on technology in general, software engineering,
+  politics, and disturbing technology behaviours."
+url: "https://tvieira.com"
+baseurl: ""
+image: https://pbs.twimg.com/profile_images/1734754783/personal_mkt.png
+paginate: 10
 
-highlighter:  rouge
+highlighter: rouge
 
 kramdown:
-  input:      GFM
+  input: GFM
   syntax_highlighter: rouge
 
 author:
-  name:       Tiago Moreira Vieira
-  url:        https://twitter.com/tiagovieira
-  email:      tiago@tvieira.com
-  twitter:    tiagovieira
+  name: Tiago Moreira Vieira
+  url: https://twitter.com/tiagovieira
+  email: tiago@tvieira.com
+  twitter: tiagovieira
 
 twitter:
-  username:   tiagovieira
+  username: tiagovieira
 
 social:
   name: Tiago Moreira Vieira
   links:
     - https://twitter.com/tiagovieira
-    - https://uk.linkedin.com/in/tiagovieira
+    - https://linkedin.com/in/tiagovieira
     - https://github.com/tvieira
     - https://keybase.io/tmoreira
     - https://www.reddit.com/user/tiagovieira
-
-collections:
-  - badges
