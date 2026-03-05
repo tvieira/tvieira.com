@@ -10,17 +10,7 @@
 
   <nav class="sidebar-nav">
     <a
-      class="
-        sidebar-nav-item{%
-        if
-        page.url
-        ==
-        site.baseurl
-        %}
-        active{%
-        endif
-        %}
-      "
+      class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}"
       href="{{ site.url | absolute_url }}"
       >Home</a
     >
@@ -40,36 +30,13 @@
     >
 
     <a
-      class="
-        sidebar-nav-item{%
-        if
-        page.url
-        ==
-        site.baseurl
-        %}
-        active{%
-        endif
-        %}
-      "
+      class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}"
       href="{{ site.url | absolute_url }}/atom.xml"
       >RSS</a
     >
   </nav>
 
   <div class="sidebar-item">
-    <p style="text-align: center">
-      <a
-        href="https://twitter.com/tiagovieira"
-        class="twitter-follow-button"
-        data-show-count="false"
-        >Follow @tiagovieira</a
-      >
-      <script
-        async
-        src="https://platform.twitter.com/widgets.js"
-        charset="utf-8"
-      ></script>
-    </p>
     <p style="text-align: center">
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
