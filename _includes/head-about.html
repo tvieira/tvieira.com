@@ -1,0 +1,116 @@
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <!-- Enable responsiveness on mobile devices-->
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0, maximum-scale=3.0, minimum-scale=1.0"
+  />
+  <title>
+    Tiago Moreira Vieira &middot; Software Engineer & Observabilbity Specialist
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/lanyon.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/custom.css" />
+  <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400"> -->
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,400i|IBM+Plex+Sans:100,100i,400,400i,700,700i"
+  />
+  <link
+    rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"
+  />
+  <!-- Icons -->
+  <link
+    rel="apple-touch-icon-precomposed"
+    sizes="144x144"
+    href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png"
+  />
+  <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.png" />
+  <!-- RSS -->
+  <link
+    rel="alternate"
+    type="application/rss+xml"
+    title="RSS"
+    href="/atom.xml"
+  />
+  {% if page.description %}
+  <!-- Keywords -->
+  <meta name="description" content="{{ page.description }}" />
+  {% endif %} {% seo %}
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Tiago Moreira Vieira",
+      "url": "https://tvieira.com/about",
+      "sameAs": [
+        "https://github.com/tvieira",
+        "https://www.linkedin.com/in/tiagovieira",
+        "https://x.com/tiagovieira",
+        "https://www.reddit.com/user/tiagovieira"
+      ],
+      "jobTitle": "Solutions Engineer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Grafana Labs"
+      },
+      "knowsAbout": [
+        "Observability",
+        "Distributed Systems",
+        "Cloud Computing",
+        "Monitoring",
+        "Automation",
+        "DevOps"
+      ]
+    }
+  </script>
+
+  <script>
+    (function () {
+      var webSdkScript = document.createElement("script");
+
+      // fetch the latest 2.x.x version of the Web-SDK from the CDN
+      webSdkScript.src =
+        "https://unpkg.com/@grafana/faro-web-sdk@2/dist/bundle/faro-web-sdk.iife.js";
+
+      webSdkScript.onload = () => {
+        window.GrafanaFaroWebSdk.initializeFaro({
+          url: "https://faro-collector-prod-sa-east-1.grafana.net/collect/9804916f7f06379a6d4b82a5c84f9834",
+          app: {
+            name: "Personal Website",
+            version: "1.0.0",
+            environment: "production",
+          },
+        });
+
+        // Load instrumentations at the onLoad event of the web-SDK and after the above configuration.
+        // This is important because we need to ensure that the Web-SDK has been loaded and initialized before we add further instruments!
+        var webTracingScript = document.createElement("script");
+
+        // fetch the latest 2.x.x version of the Web Tracing package from the CDN
+        webTracingScript.src =
+          "https://unpkg.com/@grafana/faro-web-tracing@2/dist/bundle/faro-web-tracing.iife.js";
+
+        // Initialize, configure (if necessary) and add the the new instrumentation to the already loaded and configured Web-SDK.
+        webTracingScript.onload = () => {
+          window.GrafanaFaroWebSdk.faro.instrumentations.add(
+            new window.GrafanaFaroWebTracing.TracingInstrumentation(),
+          );
+        };
+
+        // Append the Web Tracing script script tag to the HTML page
+        document.head.appendChild(webTracingScript);
+      };
+
+      // Append the Web-SDK script script tag to the HTML page
+      document.head.appendChild(webSdkScript);
+    })();
+  </script>
+</head>

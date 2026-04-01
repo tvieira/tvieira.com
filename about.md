@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: page-about
+title: Tiago Moreira Vieira <br/> Software Engineer & Observability Specialist
 status: published
 type: page
 published: true
@@ -13,18 +13,27 @@ Opinions expressed are solely my own and do not express the views or opinions of
 
 ## About me
 
-[Open source](https://opensource.com/resources/what-open-source) advocate, [pythonista](https://en.wikipedia.org/wiki/Python_%28programming_language%29), linux nerd, coffee-lover, information security paranoid + skeptical
-inquirer.
+Tiago Moreira Vieira is a Software Engineer with over 20 years of experience in observability, cloud-native systems, and [open source](https://opensource.com/resources/what-open-source) technologies.
 
-I'm a sales engineer with a passion for technology and helping clients succeed. With 20 years of experience in software engineering, I bring a unique perspective to sales, combining technical knowledge with sales expertise to deliver solutions that meet the clients' needs.
+He specializes in helping organizations design and implement scalable solutions across distributed systems, combining deep technical expertise with a strong focus on customer outcomes.
 
-My experience in software engineering has given me the ability to analyze complex problems and develop solutions that leverage cutting-edge technology. As a sales engineer, I work closely with clients to understand their business objectives and develop custom solutions that deliver measurable results.
+With a background in software engineering, Tiago brings hands-on experience in Python, Golang, Linux systems, and platform engineering. His work spans observability (Grafana ecosystems), infrastructure automation, and modern DevOps practices including Kubernetes, service mesh, and CI/CD pipelines.
 
-I believe in building strong relationships with the clients I work with, and I pride myself on my ability to communicate technical concepts in a way that is easy to understand. Whether it's through demos, presentations, or one-on-one conversations, I make sure that the clients have a clear understanding of how the solutions will help their business succeed.
+As a Sales Engineer, he partners closely with clients to understand complex technical and business challenges, translating them into practical, high-impact solutions. He is known for his ability to communicate complex concepts clearly through demos, architecture discussions, and technical guidance.
 
-The tools and processes I've been using in most recent years are: Datadog, Python, Golang, C, Ansible, linux hardening, configuring and troubleshooting Linux systems (apache httpd, nginx, samba, NFS, email, DNS), software packaging (RPM), Jenkins and Tekton for continuous integration and continuous delivery (CI/CD), Flask, Django, OpenShift Container Platform, Istio, Kubernetes, KVM (virtualization tools) and Podman (Docker replacement) for micro-services and API development (composing and deploying service mesh).
+His areas of interest include observability, distributed systems, Linux internals, platform engineering, and open source software.
 
-I do what I love, and I love what I do.
+Outside of work, he is an open source advocate, Linux enthusiast, and lifelong learner with a healthy skepticism for security and systems design.
+
+## Topics I work on
+
+- Observability (Grafana, Prometheus, OpenTelemetry)
+- Distributed systems
+- Cloud-native architecture
+- Software engineering best practices
+- Automation (Ansible, Terraform)
+- Kubernetes administration and performance
+- CI/CD pipelines
 
 ## Education and certifications
 

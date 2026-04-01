@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en-us">
+  {% include head-about.html %}
+
+  <body>
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h1 class="masthead-title">
+            <a href="{{ site.url }}{{ site.baseurl }}" title="Home"
+              >{{site.title }}</a
+            >
+            <small>&nbsp;&nbsp;{{ site.tagline }}</small>
+            <ul class="social pull-right">
+              <li>
+                <a
+                  class="fa fa-linkedin"
+                  href="https://uk.linkedin.com/in/tiagovieira"
+                  target="_blank"
+                ></a>
+              </li>
+              <li>
+                <a
+                  class="fa fa-twitter"
+                  href="https://twitter.com/tiagovieira"
+                  target="_blank"
+                ></a>
+              </li>
+              <li>
+                <a
+                  class="fa fa-github"
+                  href="https://github.com/tvieira"
+                  target="_blank"
+                ></a>
+              </li>
+              <li class="nosmall">
+                <a
+                  class="fa fa-rss"
+                  href="{{ site.url | absolute_url }}/atom.xml"
+                  target="_blank"
+                ></a>
+              </li>
+            </ul>
+          </h1>
+        </div>
+      </div>
+
+      <div class="container content">{{ content }}</div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    {% include footer.html %}
+  </body>
+</html>
