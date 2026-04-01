@@ -13,7 +13,7 @@ Opinions expressed are solely my own and do not express the views or opinions of
 
 ## About me
 
-Tiago Moreira Vieira is a Software Engineer with over 20 years of experience in observability, cloud-native systems, and [open source](https://opensource.com/resources/what-open-source) technologies.
+Tiago Moreira Vieira is a Software & Solutions Engineer with over 20 years of experience in software development, cloud-native systems, observability, and [open source](https://opensource.com/resources/what-open-source) technologies.
 
 He specializes in helping organizations design and implement scalable solutions across distributed systems, combining deep technical expertise with a strong focus on customer outcomes.
 

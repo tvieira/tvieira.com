@@ -18,10 +18,9 @@ plugins:
 permalink: pretty
 
 # Setup
-title: Tiago M. Vieira
-tagline: "Dispersing thoughts"
-description: "rambling words on technology in general, software engineering,
-  politics, and disturbing technology behaviours."
+title: Tiago Moreira Vieira
+tagline: "Software Engineer & Observability Specialist"
+description: "Tiago Moreira Vieira is a Software & Solutions Engineer focused on observability, DevOps, distributed systems, and cloud-native platforms."
 url: "https://tvieira.com"
 baseurl: ""
 image: https://pbs.twimg.com/profile_images/1734754783/personal_mkt.png
