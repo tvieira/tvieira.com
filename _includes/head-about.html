@@ -88,6 +88,18 @@
             version: "1.0.0",
             environment: "production",
           },
+          instrumentations: [
+            ...getWebInstrumentations(),
+            new TracingInstrumentation({
+              instrumentationOptions: {
+                propagateTraceHeaderCorsUrls: [], // don't attach trace headers to third-party calls
+              },
+            }),
+          ],
+          ignoreUrls: [
+            /google-analytics\.com/,
+            /browser-intake-datadoghq\.com/,
+          ], // stop tracing/reporting fetches to this host
         });
 
         // Load instrumentations at the onLoad event of the web-SDK and after the above configuration.
